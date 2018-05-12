@@ -1,0 +1,35 @@
+_repo: Romanzen-vom-Rosenkranz_18463
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brentano, Clemens
+    aliases:
+    - Von Brentano, Clemens
+    - Brentano, Clement
+    - Brentano, Clemens von
+    - Brentano, Clemens Maria
+    birthdate: 1778
+    deathdate: 1842
+    gutenberg_agent_id: '882'
+    url: http://www.gutenberg.org/2009/agents/882
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Clemens_Brentano
+    - http://en.wikipedia.org/wiki/Clemens_Brentano
+description: ''
+gutenberg_bookshelf: DE Lyrik
+gutenberg_issued: '2006-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18463'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German poetry -- 18th century'
+- !lcc 'PT'
+title: Romanzen vom Rosenkranz
+url: http://www.gutenberg.org/ebooks/18463
