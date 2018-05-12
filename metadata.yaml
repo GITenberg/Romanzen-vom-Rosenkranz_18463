@@ -19,6 +19,8 @@ creator:
     - http://de.wikipedia.org/wiki/Clemens_Brentano
     - http://en.wikipedia.org/wiki/Clemens_Brentano
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18463#Romanzen-vom-Rosenkranz
 gutenberg_bookshelf: DE Lyrik
 gutenberg_issued: '2006-05-28'
 gutenberg_type: Text
